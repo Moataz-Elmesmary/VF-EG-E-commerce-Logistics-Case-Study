@@ -2,9 +2,9 @@
 
 ## 📁 Contents
 
-- `Vodafone_Logistics.pbix` – Power BI report with full data model, KPIs, and dashboards
-- `Vodafone_Ecommerce_Logistics_Presentation.pptx` – Presentation with summarized insights and recommendations
-- `Vodafone_Ecommerce_Logistics_Presentation.pdf` – PDF version for easy viewing
+– Power BI report with full data model, KPIs, and dashboards
+– Presentation with summarized insights and recommendations
+– PDF version for easy viewing
 - Dashboard screenshots (optional)
 
 ### 📬 Contact

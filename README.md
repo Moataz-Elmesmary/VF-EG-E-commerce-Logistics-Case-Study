@@ -8,5 +8,5 @@
 - Dashboard screenshots (optional)
 
 ### 📬 Contact
-**[Moataz Elmesmary]**  
+**Moataz Elmesmary**  
 [LinkedIn](https://www.linkedin.com/in/moatazelmesmary/) | [Email](mailto:moataz.mesmary@email.com)

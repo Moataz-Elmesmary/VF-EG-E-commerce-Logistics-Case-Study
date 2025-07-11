@@ -2,9 +2,9 @@
 
 ## 📁 Contents
 
-– Power BI report with full data model, KPIs, and dashboards
-– Presentation with summarized insights and recommendations
-– PDF version for easy viewing
+– Power BI report with full data model, KPIs, and dashboards</br>
+– Presentation with summarized insights and recommendations</br>
+– PDF version for easy viewing</br>
 - Dashboard screenshots (optional)
 
 ### 📬 Contact
